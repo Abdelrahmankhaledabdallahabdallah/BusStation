@@ -1,4 +1,4 @@
-# BusStation
+# Bus Station
 bus station system using Java and object-oriented simulation, designed to practice inheritance, polymorphism, files, exceptions, and GUI development
 
 **Features:**
