@@ -1,0 +1,4 @@
+Mansoura/Aswan/NoStop/MiniBus 0 15 100 adel
+Alexanderia/Cairo/OneStop/Bus 0 40 150 adel
+Alexanderia/Cairo/NoStop/MiniBus 0 15 200 Abdo
+
